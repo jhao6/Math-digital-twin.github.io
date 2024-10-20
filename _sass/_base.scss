@@ -16,7 +16,7 @@ div,
 li,
 span,
 strong {
-  color: var(--global-text-color);
+    color: var(--global-text-color);
 }
 
 hr {
@@ -26,12 +26,12 @@ hr {
 table {
   td,
   th {
-    font-size: 1rem;
+    font-size: 2.5rem;
     padding: 1px 1rem 1px 0;
   }
 
   th {
-    font-weight: bold;
+    font-weight: bolder;
   }
 }
 
@@ -1026,7 +1026,7 @@ nav[data-toggle="toc"] {
   top: 5rem;
 
   .nav .nav > li > a {
-    font-size: 0.75rem;
+    font-size: 1rem;
   }
 
   .nav > li > a {
