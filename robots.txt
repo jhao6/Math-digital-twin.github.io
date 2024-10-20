@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://Math-digital-twin.github.io/al-folio/sitemap.xml
+Sitemap: http://Math-digital-twin.github.io/sitemap.xml
